@@ -1,0 +1,28 @@
+
+Microservices
+
+1. UserService
+Port Number: 8081
+Database : user_microservices
+
+2. HotelService
+Port Number: 8082
+Database : hotel_microservices
+
+3. RatingService
+Port Number: 8083
+Database : rating_microservices
+
+4. ApiGateway
+Port Number: 8084
+//Database : rating_microservices
+
+
+4. ServiceRegistry
+Port Number: 8167
+//Database : rating_microservices
+
+
+
+
+
